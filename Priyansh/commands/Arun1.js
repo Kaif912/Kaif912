@@ -17,8 +17,8 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
      react.includes("Vikas") || 
 react.includes("VIKAS")) {
 		var msg = {
-				body: "★𝗢𝘄𝗻𝗲𝗿 + 𝐌𝐀𝐃𝐄 𝐁𝐘★\n\n✦𝐕𝐈𝐊𝐀𝐒 𝐑𝐀𝐉𝐏𝐔𝐓✦\n\n★★᭄𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐋𝐢𝐧𝐤 :\n\n✦ 𝐍❍𝐓 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ✦ \n𝐂❍𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 \n ❍𝐍 𝐅𝐀𝐂𝐄𝐁❍❍𝐊 🌐https://www.facebook.com/profile.php?id=100081181726230`",
-				attachment: fs.createReadStream(__dirname + `/noprefix/vikas.jpg`)
+				body: "★𝗢𝘄𝗻𝗲𝗿 + 𝐌𝐀𝐃𝐄 𝐁𝐘★\n\n✦𝐌𝐑 𝐇𝐄𝐑𝐎✦\n\n★★᭄𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐋𝐢𝐧𝐤 :\n\n✦ https://www.facebook.com/share/1A9NFouGA1/ ✦ \n𝐂❍𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 \n ❍𝐍 𝐅𝐀𝐂𝐄𝐁❍❍𝐊 🌐https://www.facebook.com/profile.php?id=100081181726230`",
+				attachment: fs.createReadStream(__dirname + `/noprefix/hero.jpg`)
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("📷", event.messageID, (err) => {}, true)
