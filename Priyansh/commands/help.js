@@ -79,7 +79,7 @@ module.exports. run = function({ api, event, args, getText }) {
 
                  𝐌𝐀𝐃𝐄 𝐁𝐘
                         💙
-         😈𝐕𝐈𝐊𝐀𝐒 𝐑𝐀ᒍ𝐏𝐔𝐓😈
+         😈𝐌𝐑 𝐇𝐄𝐑𝐎😈
 🐧▬▬▬▬▬▬▬▬▬▬▬▬🐧`;
     
  const text = `\n╭──────╮
@@ -93,7 +93,7 @@ module.exports. run = function({ api, event, args, getText }) {
 💬 𝗡𝗔𝗠𝗘 𝗢𝗪𝗡𝗘𝗥 💬
 ╰────────╯  
 ╭──────╮
-👑𝐕𝐈𝐊𝐀𝐒 𝐑𝐀ᒍ𝐏𝐔𝐓👑
+👑𝐇𝐄𝐑𝐎👑
 ╰──────╯
 💛▬▬▬▬▬▬▬▬▬▬▬▬💙
  ᴜꜱᴇ ᴛʜᴇ ᴄᴍᴍᴅꜱ ᴛᴏ ᴜꜱᴇ ᴛʜᴇ  ʙᴏᴛ
@@ -105,7 +105,7 @@ module.exports. run = function({ api, event, args, getText }) {
 💙▬▬▬▬▬▬▬▬▬▬▬▬💛
 𝐀𝐍𝐘 𝐊𝐈𝐍𝐃 ❍𝐅 𝐇𝐄𝐋𝐏  𝐔𝐒𝐄 𝐋𝐈𝐍𝐊
 ╭───────╮
-🖇️:https://www.facebook.com/profile.php?id=100081181726230&mibextid=ZbWKwL
+🖇️:https://www.facebook.com/share/1A9NFouGA1/
 ╰───────╯ 
 𝐂❍𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 ❍𝐍 𝐅𝐀𝐂𝐄𝐁❍❍𝐊      
 💛▬▬▬▬▬▬▬▬▬▬▬▬💙
