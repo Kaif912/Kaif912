@@ -51,6 +51,6 @@ Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mʏ ${global.config.BOTNAME} Bᴏᴛ🖤
 ▶𝐇𝐄𝐑𝐎➤𝐌𝐀𝐗𝐖𝐄𝐋𝐋◀
 
 
-`,attachment: fs.createReadStream(__dirname + "/cache/juswa.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/juswa.jpg")); 
+`,attachment: fs.createReadStream(__dirname + "/cache/hero.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/juswa.jpg")); 
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname+"/cache/juswa.jpg")).on("close",() => callback());
    };
